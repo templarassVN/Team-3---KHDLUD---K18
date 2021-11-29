@@ -15,4 +15,7 @@ Thông tin của các thành viên trong nhóm:
 Trong đồ án này, nhóm tìm hiểu và cài đặt lại [một phương pháp giải quyết đã có](https://www.kaggle.com/c/ncaam-march-mania-2021/discussion/230946) (đứng thứ 4 trên private leaderboard) cho [bài toán Predict the 2021 NCAAM Basketball Tournament](https://www.kaggle.com/c/ncaam-march-mania-2021) trên Kaggle. Bạn đọc có thể mở file notebook ở thùng chứa của nhóm bằng Google Colab thông qua [Link này](https://colab.research.google.com/github/templarassVN/Team-3_KHDLUD_K18/blob/main/NCAAM-2021.ipynb).
 
 - Link cuộc thi: https://www.kaggle.com/c/ncaam-march-mania-2021
+Resource:
 - Kế hoạch phân công công việc: [Link](https://docs.google.com/spreadsheets/d/1guzl1BKOm0yEYLEjTThRlO2lC9YzZdCxJIuk53nlO_0/edit?fbclid=IwAR1gWEyCc-ceiGNkJ3Bw9GXgqJysrBk0yPoVkbuyJEWLl0IaZ_yTxwq1Iw0#gid=0)
+- Giải thích LightGBM: https://docs.google.com/presentation/d/1T8qWN0RjH67D8NiCuFPCMILhyepszSUgsNYNTuKVVLA/edit?usp=sharing
+
