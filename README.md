@@ -19,6 +19,6 @@ Trong đồ án này, nhóm tìm hiểu và cài đặt lại [một phương ph
 Resource:
 
 - Kế hoạch phân công công việc: [Link](https://docs.google.com/spreadsheets/d/1guzl1BKOm0yEYLEjTThRlO2lC9YzZdCxJIuk53nlO_0/edit?fbclid=IwAR1gWEyCc-ceiGNkJ3Bw9GXgqJysrBk0yPoVkbuyJEWLl0IaZ_yTxwq1Iw0#gid=0)
-- Link colab: [Colab](https://colab.research.google.com/github.com/templarassVN/Team-3_KHDLUD_K18/blob/main/NCAAM_2021.ipynb)
+- Link colab: [Colab](https://colab.research.google.com/github/templarassVN/Team-3_KHDLUD_K18/blob/main/NCAAM_2021.ipynb)
 - Giải thích LightGBM: [LightGBM](https://docs.google.com/presentation/d/1T8qWN0RjH67D8NiCuFPCMILhyepszSUgsNYNTuKVVLA/edit?usp=sharing)
 
